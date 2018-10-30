@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduitHtml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProduitHtml>
+    <Name>iPhone 5</Name>
+    <Description>Splashing Pixels&amp;#8217; WordPress e-commerce themes offer the best e-commerce solution for online stores. Our highly customizable WordPress e-commerce theme design and technology is unlike anything else on the market. We put an amazing amount of care and detail into the design and functionality to ensure that we&amp;#8217;re creating the best user experience for your customers. Our user friendly backend system makes it easy for WordPress users of all levels to understand and our customer support forum is her&amp;#8230;</Description>
+    <Price>$12.00</Price>
+  </ProduitHtml>
+  <ProduitHtml>
+    <Name>Magic Mouse</Name>
+    <Description>Splashing Pixels&amp;#8217; WordPress e-commerce themes offer the best e-commerce solution for online stores. Our highly customizable WordPress e-commerce theme design and technology is unlike anything else on the market. We put an amazing amount of care and detail into the design and functionality to ensure that we&amp;#8217;re creating the best user experience for your customers.</Description>
+    <Price>$150.00</Price>
+  </ProduitHtml>
+  <ProduitHtml>
+    <Name>iPod Nano Blue</Name>
+    <Description>Splashing Pixels&amp;#8217; WordPress e-commerce themes offer the best e-commerce solution for online stores. Our highly customizable WordPress e-commerce theme design and technology is unlike anything else on the market. We put an amazing amount of care and detail into the design and functionality to ensure that we&amp;#8217;re creating the best user experience for your customers. Our user friendly backend system makes it easy for WordPress users of all levels to understand and our customer support forum is her&amp;#8230;</Description>
+    <Price>$0.00</Price>
+  </ProduitHtml>
+</ArrayOfProduitHtml>

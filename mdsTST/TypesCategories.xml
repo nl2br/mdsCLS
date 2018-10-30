@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<type>
+		<libelle label_gip="ARBRES">Arbres</libelle>
+		<categories>
+			<categorie id="1"  unite="RG"  tdpc="20.5" tdpp="0" tdec="11" tdep="0" label_gip="AXIAL">
+			  <nom>Axial</nom>
+			  <valeurs typevaleur="RANG">
+				  <valeur>0.5</valeur>
+				  <valeur>1</valeur>
+				  <valeur>2</valeur>
+			  </valeurs>
+			</categorie>
+			<categorie id="2"  unite="RG"  tdpc="20.5" label_gip="JET DIRIGE">
+			  <nom>Jet dirigé</nom>
+			  <valeurs typevaleur="LARGEUR">
+				  <valeur>5</valeur>
+				  <valeur>10</valeur>
+				  <valeur>20</valeur>
+			  </valeurs>
+			</categorie>
+		</categories>
+	</type>
+	<type>
+		<libelle label_gip="VIGNES">Vigne</libelle>
+		<categories>
+			<categorie id="1" typevaleur="RANG" valeurs="0.5|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|22|24" tdpc="20.5" label_gip="CANON">
+				<nom>Canon</nom>
+			</categorie>
+			<categorie id="2" typevaleur="RANG" valeurs="0.5|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|22|24" tdpc="20.5" label_gip="VOUTES">
+				<nom>Voute</nom>
+			</categorie>
+			<categorie id="3" typevaleur="RANG" valeurs="0.5|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|22|24" tdpc="20.5" label_gip="FACE PAR FACE">
+				<nom>Face par face</nom>
+			</categorie>
+			<categorie id="4" typevaleur="RANG" valeurs="0.5|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|22|24" tdpc="20.5" label_gip="AXIAL">
+				<nom>Axial</nom>
+			</categorie>
+		</categories>
+	</type>
+	<type>
+		<libelle label_gip="ARBUSTES">Arbustes</libelle>
+		<valeurs typevaleur="RANG">
+			<valeur>0.5</valeur>
+			<valeur>1</valeur>
+			<valeur>2</valeur>
+			<valeur>3</valeur>
+			<valeur>4</valeur>
+			<valeur>5</valeur>
+			<valeur>6</valeur>
+		</valeurs>
+		<categories>
+			<categorie 	id="1"   tdpc="20.5" label_gip="AXIAL"><nom>Axial</nom></categorie>
+			<categorie 	id="2"   tdpc="20.5" label_gip="JET DIRIGE"><nom></nom>Jet dirigé</categorie>
+			<categorie id="3"   tdpc="20.5" label_gip="CANON"><nom>Canon</nom></categorie>
+			<categorie id="4"   tdpc="20.5" label_gip="VOUTE"><nom>Voute</nom></categorie>
+			<categorie id="5"   tdpc="20.5" label_gip="FACE PAR FACE"><nom>Face par face</nom></categorie>
+		</categories>
+	</type>
+</root>

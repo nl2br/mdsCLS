@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ClientNormal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Type>normal</Type>
+  <Id>12</Id>
+  <Nom>jacques</Nom>
+  <Encours>230</Encours>
+  <Commande>0</Commande>
+  <Remise>0</Remise>
+  <AvantRemise>0</AvantRemise>
+  <res_to_send>acceptee</res_to_send>
+  <remiseEnCours>false</remiseEnCours>
+</ClientNormal>

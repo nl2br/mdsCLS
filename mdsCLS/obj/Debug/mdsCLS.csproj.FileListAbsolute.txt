@@ -1,0 +1,11 @@
+c:\users\marilou\source\repos\mdsCLS\mdsCLS\bin\Debug\mdsCLS.dll
+c:\users\marilou\source\repos\mdsCLS\mdsCLS\bin\Debug\mdsCLS.pdb
+c:\users\marilou\source\repos\mdsCLS\mdsCLS\obj\Debug\mdsCLS.csprojAssemblyReference.cache
+c:\users\marilou\source\repos\mdsCLS\mdsCLS\obj\Debug\mdsCLS.csproj.CoreCompileInputs.cache
+c:\users\marilou\source\repos\mdsCLS\mdsCLS\obj\Debug\mdsCLS.dll
+c:\users\marilou\source\repos\mdsCLS\mdsCLS\obj\Debug\mdsCLS.pdb
+C:\Users\marilou\source\repos\mdsCLS\mdsCLS\bin\Debug\TypesCategories.xml
+C:\Users\marilou\source\repos\mdsCLS\mdsCLS\bin\Debug\HtmlAgilityPack.dll
+C:\Users\marilou\source\repos\mdsCLS\mdsCLS\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\marilou\source\repos\mdsCLS\mdsCLS\bin\Debug\HtmlAgilityPack.xml
+C:\Users\marilou\source\repos\mdsCLS\mdsCLS\obj\Debug\mdsCLS.csproj.CopyComplete

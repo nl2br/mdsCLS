@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Commande xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <id>1</id>
+  <DateCommande>30/10/2018</DateCommande>
+  <Client>
+    <Code>1</Code>
+    <Adresse>12 allée des cerisiers</Adresse>
+  </Client>
+  <Lignes>
+    <LigneCommande>
+      <NumOrder>1</NumOrder>
+      <qte>2</qte>
+      <PrixUnitaire>12</PrixUnitaire>
+      <Produit PrixUnitaire="12">
+        <Code>1</Code>
+        <Nom>ToyStory</Nom>
+      </Produit>
+    </LigneCommande>
+    <LigneCommande>
+      <NumOrder>1</NumOrder>
+      <qte>2</qte>
+      <PrixUnitaire>12</PrixUnitaire>
+      <Produit PrixUnitaire="15">
+        <Code>2</Code>
+        <Nom>Mickey</Nom>
+      </Produit>
+    </LigneCommande>
+  </Lignes>
+</Commande>
